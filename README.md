@@ -4,10 +4,10 @@ Basic puzzle game.
 # Set Up
 The packages are already initialized. No npm packages are actually needed in this.
 
-Run the following inside of the directory to start the game.
+Run the following inside of the directory to start the game.\n
 _node ._
 
 # Solver Class
-To use the solver class, just add into the main (index.js) file with the game as a parameter.
-_let cheatCode = new solver(Tower)_
-_cheatCode.solve();_
+To use the solver class, just add into the main (index.js) file with the game as a parameter.\n
+_let cheatCode = new solver(Tower)_\n
+_cheatCode.solve();_\n
